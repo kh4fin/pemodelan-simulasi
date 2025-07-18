@@ -1,0 +1,14 @@
+Penerapan Metode Decision Tree C4.5 untuk Klasifikasi Data Kandidat Tenaga Kerja pada Perusahaan Outsourcing
+ Jurnal Aplikasi Sains, Informasi, Elektronika dan Komputer (JASIEK), Vol. 6 No. 1 (Juni 2024)
+https://jurnal.unmer.ac.id/index.php/jasiek/article/view/12670
+sinta 4
+
+Klasifikasi Performa Akademik Siswa Menggunakan Metode Decision Tree dan Naive Bayes
+Jurnal Saintekom: Sains, Teknologi, Komputer dan Manajemen, Vol. 13 No. 1 (Maret 2023)
+https://www.ojs.stmikplk.ac.id/index.php/saintekom/article/view/349
+sinta 4
+
+Metode Convolutional Neural Network dan Extreme Gradient Boost untuk Mengklasifikasi Penyakit Pneumonia
+JURNAL Aplikasi Sains, Informasi, Elektronika dan Komputer (JASIEK), Vol. 6 No. 1 (2024)
+https://jurnal.unmer.ac.id/index.php/jasiek/article/view/11464
+sinta 4
